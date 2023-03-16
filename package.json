@@ -7,13 +7,6 @@
     "react-dom": "^16.0.0",
     "react-scripts": "1.0.14"
   },
-  "devDependencies": {
-    "@babel/preset-env": "<current-version>",
-    "@babel/preset-react": "<current-version>",
-    "babel-jest": "<current-version>",
-    "jest": "<current-version>",
-    "react-test-renderer": "<current-version>"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
